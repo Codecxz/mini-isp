@@ -12,7 +12,7 @@ This GNS3 lab simulates a regional Service Provider core network servicing three
 * **Enterprise Tenants:** Simulated L2/L3 transport for BDO Enterprise and BPI Enterprise
 
 ## Network Regions
-* **TARLAC**,**NAGA**,**MAKATI:** 
+* **TARLAC**,**NAGA**,**MAKATI** 
 
 ## Key Features & Configurations
 
