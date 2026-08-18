@@ -1,2 +1,2 @@
 # mini-isp
-GNS3 simulation of a regional ISP network featuring an MPLS core, 3 regions (Tarlac, Naga, Makati), BNG capabilities, L2VPN transport (BDO/BPI), and NTT internet transit.
+Multi-region ISP simulation featuring MPLS core, BNG functionality, L2VPN (xconnect), enterprise transport (BDO & BPI), and upstream NTT transit. (Work In Progress)
